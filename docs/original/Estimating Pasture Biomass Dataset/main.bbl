@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{henry2012potential}
+D.~Henry, J.~Shovelton, C.~de~Fegely, R.~Manning, L.~Beattie, and M.~Trotter.
+\newblock Potential for information technologies to improve decision making for the southern livestock industries.
+\newblock Technical Report B.GSM.0004, North Sydney, 2012.
+
+\bibitem{trotter2018biomass}
+Mark Trotter, Derek Schneider, Andrew Robson, et~al.
+\newblock Biomass business ii--tools for real time biomass estimation in pastures.
+\newblock 2018.
+
+\bibitem{asner2004grazing}
+Gregory~P Asner, Andrew~J Elmore, Lydia~P Olander, Roberta~E Martin, and A~Thomas Harris.
+\newblock Grazing systems, ecosystem responses, and global change.
+\newblock {\em Annu. Rev. Environ. Resour.}, 29(1):261--299, 2004.
+
+\bibitem{abs2024land}
+{Australian Bureau of Statistics}.
+\newblock National land account experimental estimates.
+\newblock https://www.abs.gov.au/statistics/environment/environmental-management/national-land-account-experimental-estimates/latest-release\#land-use, 2024.
+\newblock Accessed: \today.
+
+\bibitem{edwards2011pasture}
+C.~Edwards, L.~H. McCormick, and W.~D. Hoffman.
+\newblock Pasture skills audit -- a reflection on extension.
+\newblock In {\em APEN National Forum: hitting a Moving target Sustaining landscapes, livelihoods and lifestyles in a changing world}, Armidale NSW, 2011. Australasia Pacific Extension Network.
+
+\bibitem{rayburn2003falling}
+Ed~Rayburn and John Lozier.
+\newblock A falling plate meter for estimating pasture forage mass.
+\newblock 2003.
+
+\bibitem{trotter2010evaluating}
+M.~G. Trotter, D.~W. Lamb, G.~E. Donald, and D.~A. Schneider.
+\newblock Evaluating an active optical sensor for quantifying and mapping green herbage mass and growth in a perennial grass pasture.
+\newblock {\em Crop and Pasture Science}, 61:389--398, 2010.
+
+\bibitem{teal2006season}
+R.~K. Teal, B.~Tubana, K.~Girma, K.~W. Freeman, D.~B. Arnall, O.~Walsh, and W.~R. Raun.
+\newblock In-season prediction of corn grain yield potential using normalized difference vegetation index contribution from the oklahoma agricultural experiment station.
+\newblock {\em Agronomy Journal}, 98:1488--1494, 2006.
+
+\bibitem{freeman2007plant}
+K.~W. Freeman, K.~Girma, D.~B. Arnall, R.~W. Mullen, K.~L. Martin, R.~K. Teal, and W.~R. Raun.
+\newblock By-plant prediction of corn forage biomass and nitrogen uptake at various growth stages using remote sensing and plant height.
+\newblock {\em Agronomy Journal}, 99:530--536, 2007.
+
+\bibitem{schaefer2016combination}
+Michael~T Schaefer and David~W Lamb.
+\newblock A combination of plant ndvi and lidar measurements improve the estimation of pasture biomass in tall fescue (festuca arundinacea var. fletcher).
+\newblock {\em Remote Sensing}, 8(2):109, 2016.
+
+\bibitem{andersson2017estimating}
+C~Blore.
+\newblock Estimating pasture biomass with active optical sensors.
+\newblock {\em Advances in Animal Biosciences}, 8(2):754--757, 2017.
+
+\bibitem{edirisinghe2011quantitative}
+A~Edirisinghe, MJ~Hill, GE~Donald, and M~Hyder.
+\newblock Quantitative mapping of pasture biomass using satellite imagery.
+\newblock {\em International Journal of Remote Sensing}, 32(10):2699--2724, 2011.
+
+\bibitem{228c615fab5c4cf9878ccde8f79b0b4b}
+S{\o}ren Skovsen, Mads Dyrmann, J{\o}rgen Eriksen, Ren{\'e} Gislum, Henrik Karstoft, and Rasmus \{Nyholm J{\o}rgensen\}.
+\newblock Predicting dry matter composition of grass clover leys using data simulation and camera-based segmentation of field canopies into white clover, red clover, grass and weeds.
+\newblock In {\em Proceedings of the 14th International Conference on Precision Engineering}. International Society of Precision Agriculture, June 2018.
+\newblock International Conference on Precision Agriculture ; Conference date: 24-06-2018 Through 27-06-2018.
+
+\bibitem{skovsen2019grassclover}
+Soren Skovsen, Mads Dyrmann, Anders~K Mortensen, Morten~S Laursen, Ren{\'e} Gislum, Jorgen Eriksen, Sadaf Farkhani, Henrik Karstoft, and Rasmus~N Jorgensen.
+\newblock The grassclover image dataset for semantic and hierarchical species understanding in agriculture.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops}, pages 0--0, 2019.
+
+\bibitem{sapkota2022use}
+Bishwa~B Sapkota, Sorin Popescu, Nithya Rajan, Ramon~G Leon, Chris Reberg-Horton, Steven Mirsky, and Muthukumar~V Bagavathiannan.
+\newblock Use of synthetic images for training a deep learning model for weed detection and biomass estimation in cotton.
+\newblock {\em Scientific Reports}, 12(1):19580, 2022.
+
+\bibitem{albert2022unsupervised}
+Paul Albert, Mohamed Saadeldin, Badri Narayanan, Brian Mac~Namee, Deirdre Hennessy, Noel~E O'Connor, and Kevin McGuinness.
+\newblock Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 1636--1646, 2022.
+
+\bibitem{albert2021semi}
+Paul Albert, Mohamed Saadeldin, Badri Narayanan, Brian Mac~Namee, Deirdre Hennessy, Aisling O'Connor, Noel O'Connor, and Kevin McGuinness.
+\newblock Semi-supervised dry herbage mass estimation using automatic data and synthetic images.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on Computer Vision}, pages 1284--1293, 2021.
+
+\bibitem{tseng2021cropharvest}
+Gabriel Tseng, Ivan Zvonkov, Catherine~Lilian Nakalembe, and Hannah Kerner.
+\newblock Cropharvest: A global dataset for crop-type classification.
+\newblock In {\em Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2)}, 2021.
+
+\bibitem{li2022plantnet}
+Dawei Li, Guoliang Shi, Jinsheng Li, Yingliang Chen, Songyin Zhang, Shiyu Xiang, and Shichao Jin.
+\newblock Plantnet: A dual-function point cloud segmentation network for multiple plant species.
+\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing}, 184:243--263, 2022.
+
+\bibitem{olsen2019deepweeds}
+Alex Olsen, Dmitry~A Konovalov, Bronson Philippa, Peter Ridd, Jake~C Wood, Jamie Johns, Wesley Banks, Benjamin Girgenti, Owen Kenny, James Whinney, et~al.
+\newblock Deepweeds: A multiclass weed species image dataset for deep learning.
+\newblock {\em Scientific reports}, 9(1):2058, 2019.
+
+\bibitem{chiu2020agriculture}
+Mang~Tik Chiu, Xingqian Xu, Yunchao Wei, Zilong Huang, Alexander~G Schwing, Robert Brunner, Hrant Khachatrian, Hovnatan Karapetyan, Ivan Dozier, Greg Rose, et~al.
+\newblock Agriculture-vision: A large aerial image database for agricultural pattern analysis.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pages 2828--2838, 2020.
+
+\end{thebibliography}

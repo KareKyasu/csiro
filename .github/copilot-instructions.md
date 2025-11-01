@@ -1,12 +1,13 @@
+# CSIRO - Image2Biomass Prediction ワークスペース
 このワークスペースは、Kaggleの「CSIRO - Image2Biomass Prediction」コンペティションのためのものです。
 
-概要説明
+## 概要説明
 このコンペは、牧草地の画像を入力として、5種類のバイオマス量を予測する回帰タスクです。
 
 入力 (Input)
 モデルの学習と予測に使用するデータは以下の通りです。
 
-画像データ:
+## 画像データ:
 
 train/: モデルの学習に使用する牧草地のJPEG画像が含まれています。
 test/: 予測対象の画像が含まれています。コンペの採点時に提供されます。
@@ -39,8 +40,7 @@ target: あなたのモデルが予測したバイオマス量 (グラム単位�
 
 test.csv で指定された各 sample_id（つまり、各画像と各バイオマス成分の組み合わせ）に対して、バイオマス量を予測し、sample_submission.csv の target カラムにその値を記入して提出する必要があります。
 
-
-重要なディレクトリとファイル
+## 重要なディレクトリとファイル
 
 データセット:
 dataset/source/Image2Biomass: Kaggleからダウンロードした元のデータを格納します。このディレクトリは変更しないでください。
@@ -62,3 +62,9 @@ dataset/processed: sourceのデータを加工（圧縮、リサイズ、形式�
 docs ディレクトリにまとめてあります。
 コンペのルールやデータ仕様は docs/original/*.md を参照してください。
 アイディアは docs/memo/*.md に記録しています。
+docs/memo/idea.md には今後試したいアイディアをリストアップしています。
+
+## 引用
+docs/memo/Estimating Pasture Biomass from Top-View Images A Dataset for Precision Agriculture.pdf
+docs/memo/Estimating Pasture Biomass Dataset/main.tex
+がこのコンペティションのデータセットに関する論文です。
