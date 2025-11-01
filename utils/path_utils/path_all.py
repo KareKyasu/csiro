@@ -6,3 +6,6 @@ from . import pj_root
 REPO_ROOT = pj_root.find_project_root()
 # データセットのルートディレクトリ
 DATASET_ROOT = REPO_ROOT / "dataset"
+
+COMP_DIR = DATASET_ROOT / "processed/compress/"
+TRAIN_CSV = DATASET_ROOT / "processed/compress/train.csv"
