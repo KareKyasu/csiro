@@ -1,0 +1,19 @@
+[project]
+name = "csiro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fiftyone>=1.10.0",
+    "jupyter>=1.1.1",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "utils"}
+
+[tool.setuptools.packages.find]
+where = ["utils"]
+include = ["path_utils*"]
